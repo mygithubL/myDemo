@@ -1,0 +1,15 @@
+.\mb.o: modbus\mb.c
+.\mb.o: D:\KILE\ARM\ARMCC\bin\..\include\stdlib.h
+.\mb.o: D:\KILE\ARM\ARMCC\bin\..\include\string.h
+.\mb.o: .\port\port.h
+.\mb.o: D:\KILE\ARM\ARMCC\bin\..\include\assert.h
+.\mb.o: D:\KILE\ARM\ARMCC\bin\..\include\inttypes.h
+.\mb.o: D:\KILE\ARM\ARMCC\bin\..\include\stdint.h
+.\mb.o: .\modbus\include\mbconfig.h
+.\mb.o: .\modbus\include\mbframe.h
+.\mb.o: .\modbus\include\mb.h
+.\mb.o: .\modbus\include\mbport.h
+.\mb.o: .\modbus\include\mbproto.h
+.\mb.o: .\modbus\include\mbfunc.h
+.\mb.o: .\modbus\rtu\mbrtu.h
+.\mb.o: .\modbus\ascii\mbascii.h

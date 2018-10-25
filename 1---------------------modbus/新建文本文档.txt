@@ -1,0 +1,10 @@
+2018/5/26
+1、对modbus程序修改，删除了部分程序，还需测试；
+2、c语言部分内容：枚举，typedef和define区别；
+3、linux驱动程序部分概念内容；
+
+
+"D:\Keil_v5\ARM\ARMCC\bin\fromelf.exe"fromelf.exe --bin -o @L.bin ./Objects/LY-STM32.axf
+
+"D:\SoftwareInstallationPath\keil5\ARM\ARMCC\bin\fromelf.exe"fromelf.exe --bin -o @L.bin ./Objects/DoubleM.axf
+

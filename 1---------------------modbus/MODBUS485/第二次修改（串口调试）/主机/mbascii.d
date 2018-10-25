@@ -1,0 +1,15 @@
+.\mbascii.o: modbus\ascii\mbascii.c
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\mbascii.o: .\port\port.h
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\mbascii.o: .\modbus\include\mb.h
+.\mbascii.o: .\modbus\include\mbport.h
+.\mbascii.o: .\modbus\include\mbproto.h
+.\mbascii.o: .\modbus\include\mbconfig.h
+.\mbascii.o: modbus\ascii\mbascii.h
+.\mbascii.o: .\modbus\include\mbframe.h
+.\mbascii.o: .\modbus\rtu\mbcrc.h
+.\mbascii.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h

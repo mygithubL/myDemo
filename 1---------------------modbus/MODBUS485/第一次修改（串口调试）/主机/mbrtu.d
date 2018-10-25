@@ -1,0 +1,14 @@
+.\mbrtu.o: modbus\rtu\mbrtu.c
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\mbrtu.o: .\port\port.h
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\mbrtu.o: .\modbus\include\mb.h
+.\mbrtu.o: .\modbus\include\mbport.h
+.\mbrtu.o: .\modbus\include\mbproto.h
+.\mbrtu.o: modbus\rtu\mbrtu.h
+.\mbrtu.o: .\modbus\include\mbframe.h
+.\mbrtu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\mbrtu.o: modbus\rtu\mbcrc.h

@@ -1,0 +1,13 @@
+.\mbtcp.o: modbus\tcp\mbtcp.c
+.\mbtcp.o: D:\KILE\ARM\ARMCC\bin\..\include\stdlib.h
+.\mbtcp.o: D:\KILE\ARM\ARMCC\bin\..\include\string.h
+.\mbtcp.o: .\port\port.h
+.\mbtcp.o: D:\KILE\ARM\ARMCC\bin\..\include\assert.h
+.\mbtcp.o: D:\KILE\ARM\ARMCC\bin\..\include\inttypes.h
+.\mbtcp.o: D:\KILE\ARM\ARMCC\bin\..\include\stdint.h
+.\mbtcp.o: .\modbus\include\mb.h
+.\mbtcp.o: .\modbus\include\mbport.h
+.\mbtcp.o: .\modbus\include\mbproto.h
+.\mbtcp.o: .\modbus\include\mbconfig.h
+.\mbtcp.o: modbus\tcp\mbtcp.h
+.\mbtcp.o: .\modbus\include\mbframe.h

@@ -1,0 +1,12 @@
+.\mbfuncholding.o: modbus\functions\mbfuncholding.c
+.\mbfuncholding.o: D:\KILE\ARM\ARMCC\bin\..\include\stdlib.h
+.\mbfuncholding.o: D:\KILE\ARM\ARMCC\bin\..\include\string.h
+.\mbfuncholding.o: .\port\port.h
+.\mbfuncholding.o: D:\KILE\ARM\ARMCC\bin\..\include\assert.h
+.\mbfuncholding.o: D:\KILE\ARM\ARMCC\bin\..\include\inttypes.h
+.\mbfuncholding.o: D:\KILE\ARM\ARMCC\bin\..\include\stdint.h
+.\mbfuncholding.o: .\modbus\include\mb.h
+.\mbfuncholding.o: .\modbus\include\mbport.h
+.\mbfuncholding.o: .\modbus\include\mbproto.h
+.\mbfuncholding.o: .\modbus\include\mbframe.h
+.\mbfuncholding.o: .\modbus\include\mbconfig.h

@@ -1,0 +1,12 @@
+.\mbfuncinput.o: modbus\functions\mbfuncinput.c
+.\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\mbfuncinput.o: .\port\port.h
+.\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\mbfuncinput.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\mbfuncinput.o: .\modbus\include\mb.h
+.\mbfuncinput.o: .\modbus\include\mbport.h
+.\mbfuncinput.o: .\modbus\include\mbproto.h
+.\mbfuncinput.o: .\modbus\include\mbframe.h
+.\mbfuncinput.o: .\modbus\include\mbconfig.h

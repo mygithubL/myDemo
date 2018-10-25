@@ -1,0 +1,12 @@
+.\mbfuncother.o: modbus\functions\mbfuncother.c
+.\mbfuncother.o: D:\KILE\ARM\ARMCC\bin\..\include\stdlib.h
+.\mbfuncother.o: D:\KILE\ARM\ARMCC\bin\..\include\string.h
+.\mbfuncother.o: .\port\port.h
+.\mbfuncother.o: D:\KILE\ARM\ARMCC\bin\..\include\assert.h
+.\mbfuncother.o: D:\KILE\ARM\ARMCC\bin\..\include\inttypes.h
+.\mbfuncother.o: D:\KILE\ARM\ARMCC\bin\..\include\stdint.h
+.\mbfuncother.o: .\modbus\include\mb.h
+.\mbfuncother.o: .\modbus\include\mbport.h
+.\mbfuncother.o: .\modbus\include\mbproto.h
+.\mbfuncother.o: .\modbus\include\mbframe.h
+.\mbfuncother.o: .\modbus\include\mbconfig.h
