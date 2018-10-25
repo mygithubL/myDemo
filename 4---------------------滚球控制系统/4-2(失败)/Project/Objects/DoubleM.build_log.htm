@@ -1,0 +1,81 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.14.0.0
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: DoubleM DoubleM, DoubleM, LIC=0VRKP-MYUBG-WKLB8-3VYAR-UAXN8-IUDFL
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.14.0.0
+Toolchain Path:  D:\SoftwareInstallationPath\keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.14.0.0
+Dialog DLL:      DCM.DLL V1.13.1.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V2.0.14.0_KEIL
+Dialog DLL:      TCM.DLL V1.14.4.0
+ 
+<h2>Project:</h2>
+C:\Users\DoubleM\Desktop\2017电子设计大赛程序\4-2\Project\DoubleM.uvprojx
+Project File Date:  08/12/2017
+
+<h2>Output:</h2>
+Build target 'DoubleM'
+compiling usmart_config.c...
+compiling timer.c...
+compiling ov7670.c...
+compiling sccb.c...
+compiling led.c...
+compiling lcd.c...
+compiling key.c...
+compiling exti.c...
+compiling HardWork.c...
+compiling EasyTrace.c...
+..\HARDWARE\EasyTrace\EasyTrace.c(395): warning:  #1-D: last line of file ends without a newline
+  }
+..\HARDWARE\EasyTrace\EasyTrace.c: 1 warning, 0 errors
+compiling motor.c...
+compiling inv_mpu.c...
+compiling inv_mpu_dmp_motion_driver.c...
+compiling mpu6050.c...
+compiling iic.c...
+compiling main.c...
+..\USER\main.c(7): warning:  #177-D: variable "msgbuf" was declared but never referenced
+        u8 msgbuf[15];                          //消息缓存区
+..\USER\main.c: 1 warning, 0 errors
+compiling pbdata.c...
+compiling wdg.c...
+..\USER\wdg.c(37): warning:  #223-D: function "WWDG_SetPrescaler" declared implicitly
+        WWDG_SetPrescaler(fprer);////设置IWDG预分频值
+..\USER\wdg.c(39): warning:  #223-D: function "WWDG_SetWindowValue" declared implicitly
+        WWDG_SetWindowValue(wr);//设置窗口值
+..\USER\wdg.c(41): warning:  #223-D: function "WWDG_Enable" declared implicitly
+        WWDG_Enable(WWDG_CNT);   //使能看门狗 , 设置 counter .                  
+..\USER\wdg.c(43): warning:  #223-D: function "WWDG_ClearFlag" declared implicitly
+        WWDG_ClearFlag();//清除提前唤醒中断标志位 
+..\USER\wdg.c(47): warning:  #223-D: function "WWDG_EnableIT" declared implicitly
+        WWDG_EnableIT(); //开启窗口看门狗中断
+..\USER\wdg.c(52): warning:  #223-D: function "WWDG_Enable" declared implicitly
+      WWDG_Enable(cnt);//使能看门狗 ,   设置 counter .   
+..\USER\wdg.c(68): warning:  #223-D: function "WWDG_SetCounter" declared implicitly
+        WWDG_SetCounter(WWDG_CNT);        //当禁掉此句后,窗口看门狗将产生复位
+..\USER\wdg.c(70): warning:  #223-D: function "WWDG_ClearFlag" declared implicitly
+        WWDG_ClearFlag();         //清除提前唤醒中断标志位
+..\USER\wdg.c: 8 warnings, 0 errors
+linking...
+Program Size: Code=40622 RO-data=7402 RW-data=704 ZI-data=1416  
+".\Objects\DoubleM.axf" - 0 Error(s), 10 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\DoubleM\Desktop\2017电子设计大赛程序\4-2\Project\RTE
+  D:\SoftwareInstallationPath\keil5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+</pre>
+</body>
+</html>
